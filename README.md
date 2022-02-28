@@ -9,3 +9,9 @@ the function "ang_to_codon" defines the positions of bases on the wheel. the pla
 ## example output
 
 ![generated codon wheel](https://github.com/mrothfuss/codon-wheel/blob/main/example.png?raw=true)
+
+## references
+
+codon propensities were taken from this site:
+
+https://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=413997
